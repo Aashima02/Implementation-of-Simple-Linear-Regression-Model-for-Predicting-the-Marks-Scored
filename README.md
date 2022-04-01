@@ -20,8 +20,7 @@ To write a program to implement the simple linear regression model for predictin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Aashima Nazreen Sayeed S
 RegisterNumber: 212221240002
-```
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -54,7 +53,6 @@ plt.show()
 
 ## OUTPUT:
 ![output](./output1.png)
-
 
 ## RESULT:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
