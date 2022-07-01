@@ -16,7 +16,7 @@ To write a program to implement the simple linear regression model for predictin
 6. Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## PROGRAM:
-```
+```python
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Aashima Nazreen Sayeed S
 RegisterNumber: 212221240002
