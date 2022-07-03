@@ -1,5 +1,5 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
+ 
 ## AIM:
 To write a program to implement the simple linear regression model for predicting the marks scored.
 
